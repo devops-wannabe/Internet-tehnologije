@@ -8,3 +8,30 @@
 - `Switch(config-if)# spanning-tree vlan 1 port-priority X` - increments of 16 <0 - 240>  default = 128
 
 ---
+
+- `Switch# show vlan brief`
+- `Switch(config)# vlan 10`
+- `Switch(config-vlan)# name Studenti`
+- `Switch(config-if)# switchport mode access`
+- `Switch(config-if)# switchport access vlan 10 `
+- `Switch(config-if)# switchport mode trunk`
+
+- `Router(config-int)# interface G0/0.brojVLAN` - brojVLAN dobra praksa
+- `Router(config-subif)# encapsulation dot1Q BROJ_VLAN` - BROJ_VLAN MORA!  **Bitan redoslijed**
+- `Router(config-subif)# ip address 192.168.10.254 255.255.255.0` - default gateway
+
+---
+
+- `Switch(config-if-range)# channel-group <1-6> mode on` - do 8 linkova u 1 etherchannel (fizičke linkove posmatra kao 1 logički) **uraditi na oba switcha**
+- **PREDUSLOV** U Etherchannel stavljamo linkove istih karakteristika, npr. istih brzina.
+
+- `R1(config-if)# encapsulation ppp`
+- `R1(config)# username R2 password lozinka` - potrebno da šifra bude ista na obe strane  
+- `R2(config)# username R1 password lozinka`
+- `R1(config-if)# ppp authentication chap` - **Challenge-Handshake Authentication Protocol**
+- SSID
+- WEP
+- WPA
+- WI-FI
+- NAT na wifi ruteru u privatnoj mreži
+- RIP 
