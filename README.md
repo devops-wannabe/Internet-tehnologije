@@ -1,4 +1,15 @@
-# Notes
+# ❗Readme
+Ovaj repozitorijum sadrži prikupljene rokove iz predmeta _Internet tehnologije_.
+Za rok koji ima rješenje stoji oznaka __R__.
+Usmeni ispit ima oznaku __U__.
+Na usmenom ispitu su se pojavljivala i sljedeća pitanja:
+1. Integracija WLAN mreže u VLAN
+2. NAT
+3. ICMP
+4. 
+
+
+## Packet tracer commands
 
 - `Switch# show spanning-tree`
 - `Switch(config)# spanning-tree vlan 1 priority X` - increments od 4096 <0-61 440>   default = 32769 za VLAN=1
