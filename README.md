@@ -4,7 +4,7 @@ Za rok koji ima rješenje stoji oznaka __R__.
 Usmeni ispit ima oznaku __U__.
 Cilj je da na jednom mjestu postoje materijali koji mogu pomoći svim studentima.
 Ukoliko uočite neku grešku ili imate pitanje slobodno ukažite na to.
-<p>✅ Ukoliko želite da dodate svoj doprinos i dodati svoje materijale, možete otvoriti `Pull Request`.</p>
+<p>✅ Ukoliko želite da dodate svoj doprinos i dodati svoje materijale, možete otvoriti Pull Request.</p>
 
 
 Na usmenom ispitu su se pojavljivala i sljedeća pitanja:
