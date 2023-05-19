@@ -3,7 +3,7 @@ Ovaj repozitorijum sadrži prikupljene rokove iz predmeta _Internet tehnologije_
 Za rok koji ima rješenje stoji oznaka __R__.
 Usmeni ispit ima oznaku __U__.
 Cilj je da na jednom mjestu postoje materijali koji mogu pomoći svim studentima.
-Ukoliko uočite neku grešku ili imate pitanje slobodno ukažite na to <vanja.github@gmail.com>.
+Ukoliko uočite neku grešku ili imate pitanje slobodno ukažite na <vanja.github@gmail.com>.
 <p>✅ Ukoliko želite da dodate svoj doprinos i dodate svoje materijale, možete otvoriti Pull Request.</p>
 
 
